@@ -1,0 +1,29 @@
+commit b2f3bdc130c29b353d9c24d67aed528a555a1fd2
+Author: Emiliano <emi_robles12@icloud.com>
+Date:   Fri Oct 23 10:15:41 2026 -0600
+
+    Práctica terminada - 320179224
+
+commit cd6bebf2fd60e3f291c9f83fc3c6247dbfa7df6a
+Author: Cesar Gomez <cesar.gmz.x2@gmail.com>
+Date:   Fri Oct 23 07:43:42 2026 -0600
+
+    agregando index.html y moviendo polimorfismo.js a js/
+
+commit a734f73d07c0cd27624a93818ce151f0b5e269ba
+Author: Cesar Gomez <cesar.gmz.x2@gmail.com>
+Date:   Fri Oct 23 07:36:19 2026 -0600
+
+    eliminando archivo de carpeta de macos
+
+commit 5c1ee0f63b7c057b61141eef250e1b7142f4bd80
+Author: Cesar Gomez <cesar.gmz.x2@gmail.com>
+Date:   Fri Oct 23 07:33:54 2026 -0600
+
+    add polimorfismo.js
+
+commit e2a8ae2cdedd9adbf05c765475310fd8a2056c64
+Author: Cesar Gomez <cesar.gmz.x2@gmail.com>
+Date:   Fri Oct 23 07:32:19 2026 -0600
+
+    commit inicial
